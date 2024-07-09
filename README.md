@@ -1,2 +1,2 @@
-# Simba_A_Desktop_Assistant
+# Simba : A Desktop Assistant
 Simba is a desktop assistant that helps users with their daily tasks and activities on their computer. It is designed to be a voice-activated, intelligent software that can perform a variety of functions such as setting reminders, opening files, searching the internet, and sending emails. With its natural language processing capabilities, Simba can understand and respond to user commands in a conversational manner. It also has a customizable interface that allows users to personalize their experience by adding or removing features. Overall, Simba aims to simplify computer usage and increase productivity by providing a virtual assistant that can handle various tasks efficiently.
